@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /Users/saitofuga/Documents/pico/projects/shimaenaga/main.py /Users/saitofuga/Documents/pico/projects/shimaenaga/main_backup_20260612.py && echo \"バックアップ完了\")",
+      "Bash(python3 -)",
+      "Bash(python3 -m py_compile /Users/saitofuga/Documents/pico/projects/shimaenaga/main.py)",
+      "Bash(python3 -c ' *)"
+    ],
+    "additionalDirectories": [
+      "/Users/saitofuga/Documents/pico/projects/shimaenaga"
+    ]
+  }
+}
