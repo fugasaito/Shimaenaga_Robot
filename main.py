@@ -56,7 +56,7 @@ NORMAL_COLOR = (0, 30, 60)
 VOLUME = 67
 
 # WiFi アクセスポイントの名前とパスワード
-AP_SSID     = "Shimaenaga"   # スマホ側に表示される WiFi 名
+AP_SSID     = "Shimaenaga2   # スマホ側に表示される WiFi 名
 AP_PASSWORD = "12345678"     # パスワード（8文字以上）
 
 
